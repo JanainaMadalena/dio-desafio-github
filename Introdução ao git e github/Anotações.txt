@@ -1,4 +1,12 @@
 link para download do git  -> https://git-scm.com/download/win
 
+comandos:
+
+-> adicionar pasta ao git
+
+1. $ git add .
+2. $ git commit -m "inclusão de nova pasta de anotações"
+3. $ git push origin main
+
 
 
