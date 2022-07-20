@@ -8,5 +8,11 @@ comandos:
 2. $ git commit -m "inclusão de nova pasta de anotações"
 3. $ git push origin main
 
+-> Quando der erro e não quiser adicionar 
+
+1. git add . (Para adicionar todos os arquivos)
+2. git commit -m 'Qualquer coisa'
+3. git push origin master --force
+
 
 
